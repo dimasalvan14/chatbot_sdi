@@ -1,0 +1,211 @@
+input,response,intent
+Assalamu'alaikum.,Wa'alaikumsalam.,ucapan_salam_pembuka
+Assalamu'alaikum warahmatullahi wabarakatuh.,Wa'alaikumsalam warahmatullahi wabarakatuh.,ucapan_salam_pembuka
+Wassalamu'alaikum.,Wa'alaikumsalam.,ucapan_salam_pembuka
+Halo,Halo juga! Ada yang bisa saya bantu?,ucapan_salam_pembuka
+Selamat pagi,Selamat pagi! Semoga harimu menyenangkan. Ada yang bisa saya bantu?,ucapan_salam_pembuka
+Apa ini nomor TU SD Arrohman?,Benar Anda sedang terhubung dengan chatbot TU SD Islam Arrohman.,ucapan_salam_pembuka
+Dengan siapa ini?,Saya adalah chatbot tata usaha SD Islam Arrohman yang diprogram untuk menjawab pesan teks secara otomatis.,ucapan_salam_pembuka
+Boleh tanya seputar sekolah?,Tentu! Silakan tanyakan hal yang ingin Anda ketahui.,ucapan_salam_pembuka
+Dapatkah saya bertanya?,Silakan saya akan menjawab pertanyaan Anda dengan senang hati.,ucapan_salam_pembuka
+Terima kasih,Sama-sama senang dapat membantu Anda.,ucapan_salam_pembuka
+Berapa biaya seragamnya?,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Berapa biaya seragam di SD Islam Arrohman?,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Harga seragam lengkap berapa?,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Seragam sekolah ini bayar berapa?,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Saya ingin tahu biaya untuk seragam.,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Berapa biaya DSP atau bangunan di SD Islam Arrohman?,Tidak ada biaya DSP atau bangunan di SD Islam Arrohman.,pertanyaan_dsp
+Apakah ada biaya DSP di sekolah ini?,Tidak ada biaya DSP atau bangunan di SD Islam Arrohman.,pertanyaan_dsp
+Biaya bangunan di SD Arrohman berapa?,Tidak ada biaya DSP atau bangunan di SD Islam Arrohman.,pertanyaan_dsp
+Berapa total biaya pendaftaran tahun ini di SD Islam Arrohman?,Total biaya pendaftaran tahun ini di SD Islam Arrohman adalah Rp.300.000.,pertanyaan_pendaftaran
+Biaya pendaftaran tahun ini berapa?,Total biaya pendaftaran tahun ini di SD Islam Arrohman adalah Rp.300.000.,pertanyaan_pendaftaran
+Berapa biaya SPP per bulan di SD Islam Arrohman?,Biaya SPP per bulan di SD Islam Arrohman adalah Rp. 100.000.,pertanyaan_spp
+SPP berapa?,Biaya SPP per bulan di SD Islam Arrohman adalah Rp. 100.000.,pertanyaan_spp
+Bayar SPP berapa?,Biaya SPP per bulan di SD Islam Arrohman adalah Rp. 100.000.,pertanyaan_spp
+SPP bulan depan berapa ya?,Biaya SPP per bulan di SD Islam Arrohman adalah Rp. 100.000.,pertanyaan_spp
+Apakah ada perpustakaan?,Ya kami memiliki perpustakaan yang nyaman dan lengkap.,pertanyaan_sarana
+Bagaimana kondisi ruang kelas?,Ruang kelas kami bersih nyaman dan dilengkapi dengan fasilitas pendukung belajar.,pertanyaan_sarana
+Apakah ada ruang komputer?,Ya tersedia ruang komputer untuk kegiatan pembelajaran teknologi.,pertanyaan_sarana
+Apakah sekolah ini punya lapangan olahraga?,Ya sekolah memiliki lapangan olahraga yang luas.,pertanyaan_sarana
+Apakah ada ruang UKS?,Tersedia ruang UKS untuk penanganan kesehatan siswa.,pertanyaan_sarana
+Tolong info dong. apa ini nomor tu sd arrohman?,Benar Anda sedang terhubung dengan chatbot TU SD Islam Arrohman.,ucapan_salam_pembuka
+Tolong info dong. apakah ada ruang uks?,Tersedia ruang UKS untuk penanganan kesehatan siswa.,pertanyaan_sarana
+Tolong info dong. selamat pagi,Selamat pagi! Semoga harimu menyenangkan. Ada yang bisa saya bantu?,ucapan_salam_pembuka
+Maaf.spp bulan depan berapa ya?,Biaya SPP per bulan di SD Islam Arrohman adalah Rp. 100.000.,pertanyaan_spp
+Tolong info dong.halo,Halo juga! Ada yang bisa saya bantu?,ucapan_salam_pembuka
+Maaf. wassalamu'alaikum.,Wa'alaikumsalam.,ucapan_salam_pembuka
+Apa ini nomor TU SD Arrohman?,Benar Anda sedang terhubung dengan chatbot TU SD Islam Arrohman.,ucapan_salam_pembuka
+Apa ini nomor TU SD Arrohman?,Benar Anda sedang terhubung dengan chatbot TU SD Islam Arrohman.,ucapan_salam_pembuka
+Maaf. biaya pendaftaran tahun ini berapa?,Total biaya pendaftaran tahun ini di SD Islam Arrohman adalah Rp.300.000.,pertanyaan_pendaftaran
+Biaya bangunan di SD Arrohman berapa? Makasih.,Tidak ada biaya DSP atau bangunan di SD Islam Arrohman.,pertanyaan_dsp
+Biaya pendaftaran tahun ini berapa? Makasih.,Total biaya pendaftaran tahun ini di SD Islam Arrohman adalah Rp.300.000.,pertanyaan_pendaftaran
+SPP bulan depan berapa ya? Makasih.,Biaya SPP per bulan di SD Islam Arrohman adalah Rp. 100.000.,pertanyaan_spp
+Tolong info dong. berapa biaya seragamnya?,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Apakah ada perpustakaan?,Ya kami memiliki perpustakaan yang nyaman dan lengkap.,pertanyaan_sarana
+Assalamu'alaikum warahmatullahi wabarakatuh.,Wa'alaikumsalam warahmatullahi wabarakatuh.,ucapan_salam_pembuka
+Apa ini nomor TU SD Arrohman?,Benar Anda sedang terhubung dengan chatbot TU SD Islam Arrohman.,ucapan_salam_pembuka
+Selamat pagi,Selamat pagi! Semoga harimu menyenangkan. Ada yang bisa saya bantu?,ucapan_salam_pembuka
+Tolong info dong. terima kasih,Sama-sama senang dapat membantu Anda.,ucapan_salam_pembuka
+Terima kasih.Sama-sama senang dapat membantu Anda.,ucapan_salam_pembuka
+Tolong info dong. assalamu'alaikum.,Wa'alaikumsalam.,ucapan_salam_pembuka
+Maaf. apakah ada biaya dsp di sekolah ini?,Tidak ada biaya DSP atau bangunan di SD Islam Arrohman.,pertanyaan_dsp
+Bagaimana kondisi ruang kelas?,Ruang kelas kami bersih nyaman dan dilengkapi dengan fasilitas pendukung belajar.,pertanyaan_sarana
+Assalamu'alaikum.,Wa'alaikumsalam.,ucapan_salam_pembuka
+Maaf. berapa biaya seragam di sd islam arrohman?,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Apakah ada ruang komputer?,Ya tersedia ruang komputer untuk kegiatan pembelajaran teknologi.,pertanyaan_sarana
+Berapa biaya DSP atau bangunan di SD Islam Arrohman? Makasih.,Tidak ada biaya DSP atau bangunan di SD Islam Arrohman.,pertanyaan_dsp
+Dengan siapa ini? Makasih.,Saya adalah chatbot tata usaha SD Islam Arrohman yang diprogram untuk menjawab pesan teks secara otomatis.,ucapan_salam_pembuka
+Assalamu'alaikum warahmatullahi wabarakatuh.,Wa'alaikumsalam warahmatullahi wabarakatuh.,ucapan_salam_pembuka
+Seragam sekolah ini bayar berapa ya?,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Maaf. seragam sekolah ini bayar berapa?,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Tolong info dong. apakah ada perpustakaan?,Ya kami memiliki perpustakaan yang nyaman dan lengkap.,pertanyaan_sarana
+Tolong info dong. apa ini nomor tu sd arrohman?,Benar Anda sedang terhubung dengan chatbot TU SD Islam Arrohman.,ucapan_salam_pembuka
+Boleh tanya seputar sekolah?,Tentu! Silakan tanyakan hal yang ingin Anda ketahui.,ucapan_salam_pembuka
+Berapa biaya seragamnya?,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Apakah ada ruang komputer?,Ya tersedia ruang komputer untuk kegiatan pembelajaran teknologi.,pertanyaan_sarana
+Halo,Halo juga! Ada yang bisa saya bantu?,ucapan_salam_pembuka
+Berapa biaya SPP per bulan di SD Islam Arrohman?,Biaya SPP per bulan di SD Islam Arrohman adalah Rp. 100.000.,pertanyaan_spp
+Bagaimana kondisi ruang kelas?,Ruang kelas kami bersih nyaman dan dilengkapi dengan fasilitas pendukung belajar.,pertanyaan_sarana
+Tolong info dong. apakah ada ruang komputer?,Ya tersedia ruang komputer untuk kegiatan pembelajaran teknologi.,pertanyaan_sarana
+Tolong info dong. dengan siapa ini?,Saya adalah chatbot tata usaha SD Islam Arrohman yang diprogram untuk menjawab pesan teks secara otomatis.,ucapan_salam_pembuka
+Berapa total biaya pendaftaran tahun ini di SD Islam Arrohman? Makasih.,Total biaya pendaftaran tahun ini di SD Islam Arrohman adalah Rp.300.000.,pertanyaan_pendaftaran
+Biaya bangunan di SD Arrohman berapa?,Tidak ada biaya DSP atau bangunan di SD Islam Arrohman.,pertanyaan_dsp
+Berapa biaya DSP atau bangunan di SD Islam Arrohman?,Tidak ada biaya DSP atau bangunan di SD Islam Arrohman.,pertanyaan_dsp
+Maaf. berapa biaya dsp atau bangunan di sd islam arrohman?,Tidak ada biaya DSP atau bangunan di SD Islam Arrohman.,pertanyaan_dsp
+Biaya bangunan di SD Arrohman berapa?,Tidak ada biaya DSP atau bangunan di SD Islam Arrohman.,pertanyaan_dsp
+Dapatkah saya bertanya?,Silakan saya akan menjawab pertanyaan Anda dengan senang hati.,ucapan_salam_pembuka
+Bagaimana kondisi ruang kelas? Makasih.,Ruang kelas kami bersih nyaman dan dilengkapi dengan fasilitas pendukung belajar.,pertanyaan_sarana
+Tolong info dong. bagaimana kondisi ruang kelas?,Ruang kelas kami bersih nyaman dan dilengkapi dengan fasilitas pendukung belajar.,pertanyaan_sarana
+Maaf. assalamu'alaikum warahmatullahi wabarakatuh.,Wa'alaikumsalam warahmatullahi wabarakatuh.,ucapan_salam_pembuka
+Maaf. bagaimana kondisi ruang kelas?,Ruang kelas kami bersih nyaman dan dilengkapi dengan fasilitas pendukung belajar.,pertanyaan_sarana
+Dengan siapa ini? Makasih.,Saya adalah chatbot tata usaha SD Islam Arrohman yang diprogram untuk menjawab pesan teks secara otomatis.,ucapan_salam_pembuka
+Bayar SPP berapa?,Biaya SPP per bulan di SD Islam Arrohman adalah Rp. 100.000.,pertanyaan_spp
+Maaf. seragam sekolah ini bayar berapa?,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Dengan siapa ini?,Saya adalah chatbot tata usaha SD Islam Arrohman yang diprogram untuk menjawab pesan teks secara otomatis.,ucapan_salam_pembuka
+Berapa biaya seragam di SD Islam Arrohman?,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Selamat pagi,Selamat pagi! Semoga harimu menyenangkan. Ada yang bisa saya bantu?,ucapan_salam_pembuka
+Tolong info dong.  selamat pagi,Selamat pagi! Semoga harimu menyenangkan. Ada yang bisa saya bantu?,ucapan_salam_pembuka
+Maaf. assalamu'alaikum.,Wa'alaikumsalam.,ucapan_salam_pembuka
+Terima kasih. Sama-sama senang dapat membantu Anda.,ucapan_salam_pembuka
+Tolong info dong. apakah ada perpustakaan?,Ya kami memiliki perpustakaan yang nyaman dan lengkap.,pertanyaan_sarana
+Seragam sekolah ini bayar berapa?,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Tolong info dong. biaya bangunan di sd arrohman berapa?,Tidak ada biaya DSP atau bangunan di SD Islam Arrohman.,pertanyaan_dsp
+Maaf. biaya pendaftaran tahun ini berapa?,Total biaya pendaftaran tahun ini di SD Islam Arrohman adalah Rp.300.000.,pertanyaan_pendaftaran
+Tolong info dong. dapatkah saya bertanya?,Silakan saya akan menjawab pertanyaan Anda dengan senang hati.,ucapan_salam_pembuka
+Apakah sekolah ini punya lapangan olahraga?,Ya sekolah memiliki lapangan olahraga yang luas.,pertanyaan_sarana
+Maaf. berapa biaya seragamnya?,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Apakah ada biaya DSP di sekolah ini?,Tidak ada biaya DSP atau bangunan di SD Islam Arrohman.,pertanyaan_dsp
+Berapa total biaya pendaftaran tahun ini di SD Islam Arrohman?,Total biaya pendaftaran tahun ini di SD Islam Arrohman adalah Rp.300.000.,pertanyaan_pendaftaran
+Maaf. spp bulan depan berapa ya?,Biaya SPP per bulan di SD Islam Arrohman adalah Rp. 100.000.,pertanyaan_spp
+Harga seragam lengkap berapa? Makasih.,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Harga seragam lengkap berapa? Makasih.,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Biaya pendaftaran tahun ini berapa?,Total biaya pendaftaran tahun ini di SD Islam Arrohman adalah Rp.300.000.,pertanyaan_pendaftaran
+Maaf. berapa total biaya pendaftaran tahun ini di sd islam arrohman?,Total biaya pendaftaran tahun ini di SD Islam Arrohman adalah Rp.300.000.,pertanyaan_pendaftaran
+Apakah ada ruang komputer? Makasih.,Ya tersedia ruang komputer untuk kegiatan pembelajaran teknologi.,pertanyaan_sarana
+Biaya bangunan di SD Arrohman berapa?,Tidak ada biaya DSP atau bangunan di SD Islam Arrohman.,pertanyaan_dsp
+Bagaimana kondisi ruang kelas? Makasih.,Ruang kelas kami bersih nyaman dan dilengkapi dengan fasilitas pendukung belajar.,pertanyaan_sarana
+Maaf. assalamu'alaikum warahmatullahi wabarakatuh.,Wa'alaikumsalam warahmatullahi wabarakatuh.,ucapan_salam_pembuka
+SPP berapa? Makasih.,Biaya SPP per bulan di SD Islam Arrohman adalah Rp. 100.000.,pertanyaan_spp
+Tolong info dong. apakah ada ruang komputer?,Ya tersedia ruang komputer untuk kegiatan pembelajaran teknologi.,pertanyaan_sarana
+Bayar SPP berapa? Makasih.,Biaya SPP per bulan di SD Islam Arrohman adalah Rp. 100.000.,pertanyaan_spp
+Assalamu'alaikum warahmatullahi wabarakatuh. Makasih.,Wa'alaikumsalam warahmatullahi wabarakatuh.,ucapan_salam_pembuka
+Berapa biaya seragam di SD Islam Arrohman?,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Berapa biaya seragam di SD Islam Arrohman?,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Tolong info dong. selamat pagi,Selamat pagi! Semoga harimu menyenangkan. Ada yang bisa saya bantu?,ucapan_salam_pembuka
+Assalamu'alaikum warahmatullahi wabarakatuh.,Wa'alaikumsalam warahmatullahi wabarakatuh.,ucapan_salam_pembuka
+Biaya pendaftaran tahun ini berapa ya?,Total biaya pendaftaran tahun ini di SD Islam Arrohman adalah Rp.300.000.,pertanyaan_pendaftaran
+Tolong info dong. berapa biaya spp per bulan di sd islam arrohman?,Biaya SPP per bulan di SD Islam Arrohman adalah Rp. 100.000.,pertanyaan_spp
+Biaya bangunan di SD Arrohman berapa ya?,Tidak ada biaya DSP atau bangunan di SD Islam Arrohman.,pertanyaan_dsp
+Boleh tanya seputar sekolah?,Tentu! Silakan tanyakan hal yang ingin Anda ketahui.,ucapan_salam_pembuka
+Tolong info dong. berapa biaya dsp atau bangunan di sd islam arrohman?,Tidak ada biaya DSP atau bangunan di SD Islam Arrohman.,pertanyaan_dsp
+Selamat pagi,Selamat pagi! Semoga harimu menyenangkan. Ada yang bisa saya bantu?,ucapan_salam_pembuka
+Maaf. terima kasih,Sama-sama senang dapat membantu Anda.,ucapan_salam_pembuka
+Apakah ada ruang komputer? Makasih.,Ya tersedia ruang komputer untuk kegiatan pembelajaran teknologi.,pertanyaan_sarana
+Maaf. dengan siapa ini?,Saya adalah chatbot tata usaha SD Islam Arrohman yang diprogram untuk menjawab pesan teks secara otomatis.,ucapan_salam_pembuka
+Maaf. halo,Halo juga! Ada yang bisa saya bantu?,ucapan_salam_pembuka
+Tolong info dong. assalamu'alaikum warahmatullahi wabarakatuh.,Wa'alaikumsalam warahmatullahi wabarakatuh.,ucapan_salam_pembuka
+Assalamu'alaikum warahmatullahi wabarakatuh.,Wa'alaikumsalam warahmatullahi wabarakatuh.,ucapan_salam_pembuka
+Maaf. saya ingin tahu biaya untuk seragam.,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Maaf. berapa biaya seragam di sd islam arrohman?,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Tolong info dong. biaya bangunan di sd arrohman berapa?,Tidak ada biaya DSP atau bangunan di SD Islam Arrohman.,pertanyaan_dsp
+Saya ingin tahu biaya untuk seragam.,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Tolong info dong. saya ingin tahu biaya untuk seragam.,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Maaf. bagaimana kondisi ruang kelas?,Ruang kelas kami bersih nyaman dan dilengkapi dengan fasilitas pendukung belajar.,pertanyaan_sarana
+Dengan siapa ini?,Saya adalah chatbot tata usaha SD Islam Arrohman yang diprogram untuk menjawab pesan teks secara otomatis.,ucapan_salam_pembuka
+Halo Makasih.,Halo juga! Ada yang bisa saya bantu?,ucapan_salam_pembuka
+Tolong info dong. apakah sekolah ini punya lapangan olahraga?,Ya sekolah memiliki lapangan olahraga yang luas.,pertanyaan_sarana
+Tolong info dong. assalamu'alaikum.,Wa'alaikumsalam.,ucapan_salam_pembuka
+Maaf. halo,Halo juga! Ada yang bisa saya bantu?,ucapan_salam_pembuka
+Apakah ada perpustakaan? Makasih.,Ya kami memiliki perpustakaan yang nyaman dan lengkap.,pertanyaan_sarana
+Maaf. spp berapa?,Biaya SPP per bulan di SD Islam Arrohman adalah Rp. 100.000.,pertanyaan_spp
+Dengan siapa ini? Makasih.,Saya adalah chatbot tata usaha SD Islam Arrohman yang diprogram untuk menjawab pesan teks secara otomatis.,ucapan_salam_pembuka
+Apakah ada ruang komputer? Makasih.,Ya tersedia ruang komputer untuk kegiatan pembelajaran teknologi.,pertanyaan_sarana
+Maaf. apakah ada biaya dsp di sekolah ini?,Tidak ada biaya DSP atau bangunan di SD Islam Arrohman.,pertanyaan_dsp
+Maaf. apakah ada biaya dsp di sekolah ini?,Tidak ada biaya DSP atau bangunan di SD Islam Arrohman.,pertanyaan_dsp
+Halo,Halo juga! Ada yang bisa saya bantu?,ucapan_salam_pembuka
+Tolong info dong. spp berapa?,Biaya SPP per bulan di SD Islam Arrohman adalah Rp. 100.000.,pertanyaan_spp
+Maaf. spp berapa?,Biaya SPP per bulan di SD Islam Arrohman adalah Rp. 100.000.,pertanyaan_spp
+Maaf. berapa total biaya pendaftaran tahun ini di sd islam arrohman?,Total biaya pendaftaran tahun ini di SD Islam Arrohman adalah Rp.300.000.,pertanyaan_pendaftaran
+Tolong info dong. halo,Halo juga! Ada yang bisa saya bantu?,ucapan_salam_pembuka
+Tolong info dong. spp berapa?,Biaya SPP per bulan di SD Islam Arrohman adalah Rp. 100.000.,pertanyaan_spp
+Maaf. terima kasih,Sama-sama senang dapat membantu Anda.,ucapan_salam_pembuka
+Berapa biaya SPP per bulan di SD Islam Arrohman?,Biaya SPP per bulan di SD Islam Arrohman adalah Rp. 100.000.,pertanyaan_spp
+Tolong info dong. apakah ada perpustakaan?,Ya kami memiliki perpustakaan yang nyaman dan lengkap.,pertanyaan_sarana
+Biaya bangunan di SD Arrohman berapa? Makasih.,Tidak ada biaya DSP atau bangunan di SD Islam Arrohman.,pertanyaan_dsp
+Maaf. berapa biaya seragamnya?,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Wassalamu'alaikum.,Wa'alaikumsalam.,ucapan_salam_pembuka
+Tolong info dong. apakah ada ruang uks?,Tersedia ruang UKS untuk penanganan kesehatan siswa.,pertanyaan_sarana
+Biaya pendaftaran tahun ini berapa?,Total biaya pendaftaran tahun ini di SD Islam Arrohman adalah Rp.300.000.,pertanyaan_pendaftaran
+Berapa biaya seragamnya?,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Apakah sekolah ini punya lapangan olahraga? Makasih.,Ya sekolah memiliki lapangan olahraga yang luas.,pertanyaan_sarana
+Dapatkah saya bertanya?,Silakan saya akan menjawab pertanyaan Anda dengan senang hati.,ucapan_salam_pembuka
+Assalamu'alaikum warahmatullahi wabarakatuh. Makasih.,Wa'alaikumsalam warahmatullahi wabarakatuh.,ucapan_salam_pembuka
+Bayar SPP berapa?,Biaya SPP per bulan di SD Islam Arrohman adalah Rp. 100.000.,pertanyaan_spp
+Maaf. terima kasih,Sama-sama senang dapat membantu Anda.,ucapan_salam_pembuka
+Maaf. halo,Halo juga! Ada yang bisa saya bantu?,ucapan_salam_pembuka
+Berapa biaya DSP atau bangunan di SD Islam Arrohman?,Tidak ada biaya DSP atau bangunan di SD Islam Arrohman.,pertanyaan_dsp
+Assalamu'alaikum.,Wa'alaikumsalam.,ucapan_salam_pembuka
+Berapa biaya seragamnya?,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Maaf. apakah sekolah ini punya lapangan olahraga?,Ya sekolah memiliki lapangan olahraga yang luas.,pertanyaan_sarana
+Wassalamu'alaikum.,Wa'alaikumsalam.,ucapan_salam_pembuka
+Biaya pendaftaran tahun ini berapa?,Total biaya pendaftaran tahun ini di SD Islam Arrohman adalah Rp.300.000.,pertanyaan_pendaftaran
+Tolong info dong. bayar spp berapa?,Biaya SPP per bulan di SD Islam Arrohman adalah Rp. 100.000.,pertanyaan_spp
+Apakah ada perpustakaan?,Ya kami memiliki perpustakaan yang nyaman dan lengkap.,pertanyaan_sarana
+Boleh tanya seputar sekolah? Makasih.,Tentu! Silakan tanyakan hal yang ingin Anda ketahui.,ucapan_salam_pembuka
+Tolong info dong. spp berapa?,Biaya SPP per bulan di SD Islam Arrohman adalah Rp. 100.000.,pertanyaan_spp
+Apakah ada ruang UKS?,Tersedia ruang UKS untuk penanganan kesehatan siswa.,pertanyaan_sarana
+Maaf. apakah ada ruang komputer?,Ya tersedia ruang komputer untuk kegiatan pembelajaran teknologi.,pertanyaan_sarana
+Apakah ada biaya DSP di sekolah ini?,Tidak ada biaya DSP atau bangunan di SD Islam Arrohman.,pertanyaan_dsp
+Maaf. selamat pagi,Selamat pagi! Semoga harimu menyenangkan. Ada yang bisa saya bantu?,ucapan_salam_pembuka
+Apakah ada ruang komputer? Makasih.,Ya tersedia ruang komputer untuk kegiatan pembelajaran teknologi.,pertanyaan_sarana
+Maaf. spp bulan depan berapa ya?,Biaya SPP per bulan di SD Islam Arrohman adalah Rp. 100.000.,pertanyaan_spp
+Berapa biaya DSP atau bangunan di SD Islam Arrohman? Makasih.,Tidak ada biaya DSP atau bangunan di SD Islam Arrohman.,pertanyaan_dsp
+Biaya pendaftaran tahun ini berapa? Makasih.,Total biaya pendaftaran tahun ini di SD Islam Arrohman adalah Rp.300.000.,pertanyaan_pendaftaran
+Maaf. assalamu'alaikum warahmatullahi wabarakatuh.,Wa'alaikumsalam warahmatullahi wabarakatuh.,ucapan_salam_pembuka
+Saya ingin tahu biaya untuk seragam. Makasih.,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Seragam sekolah ini bayar berapa ya?,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Maaf. apakah ada ruang komputer?,Ya tersedia ruang komputer untuk kegiatan pembelajaran teknologi.,pertanyaan_sarana
+Selamat pagi,Selamat pagi! Semoga harimu menyenangkan. Ada yang bisa saya bantu?,ucapan_salam_pembuka
+Assalamu'alaikum warahmatullahi wabarakatuh.,Wa'alaikumsalam warahmatullahi wabarakatuh.,ucapan_salam_pembuka
+Tolong info dong. biaya pendaftaran tahun ini berapa?,Total biaya pendaftaran tahun ini di SD Islam Arrohman adalah Rp.300.000.,pertanyaan_pendaftaran
+Tolong info dong. harga seragam lengkap berapa?,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Maaf. berapa biaya dsp atau bangunan di sd islam arrohman?,Tidak ada biaya DSP atau bangunan di SD Islam Arrohman.,pertanyaan_dsp
+Apakah ada ruang komputer?,Ya tersedia ruang komputer untuk kegiatan pembelajaran teknologi.,pertanyaan_sarana
+Dapatkah saya bertanya?,Silakan saya akan menjawab pertanyaan Anda dengan senang hati.,ucapan_salam_pembuka
+Maaf. seragam sekolah ini bayar berapa?,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Maaf. apakah sekolah ini punya lapangan olahraga?,Ya sekolah memiliki lapangan olahraga yang luas.,pertanyaan_sarana
+Assalamu'alaikum.,Wa'alaikumsalam.,ucapan_salam_pembuka
+Apakah ada biaya DSP di sekolah ini?,Tidak ada biaya DSP atau bangunan di SD Islam Arrohman.,pertanyaan_dsp
+SPP bulan depan berapa ya? Makasih.,Biaya SPP per bulan di SD Islam Arrohman adalah Rp. 100.000.,pertanyaan_spp
+SPP berapa ya?,Biaya SPP per bulan di SD Islam Arrohman adalah Rp. 100.000.,pertanyaan_spp
+Berapa biaya seragamnya? Makasih.,Biaya seragam di SD Islam Arrohman adalah Rp.150.000.,pertanyaan_seragam
+Saya ingin tahu biaya formulir pendaftaran,Biaya formulir pendaftaran di SD Islam Arrohman adalah Rp.50.000.,pertanyaan_formulir
+Apakah formulir pendaftaran dikenakan biaya?,Biaya formulir pendaftaran di SD Islam Arrohman adalah Rp.50.000.,pertanyaan_formulir
+Berapa biaya formulir pendaftaran di sekolah ini?,Biaya formulir pendaftaran di SD Islam Arrohman adalah Rp.50.000.,pertanyaan_formulir
+Tolong informasikan harga formulir pendaftaran.,Biaya formulir pendaftaran di SD Islam Arrohman adalah Rp.50.000.,pertanyaan_formulir
+Apakah ada biaya untuk formulir pendaftaran di SD Arrohman?,Biaya formulir pendaftaran di SD Islam Arrohman adalah Rp.50.000.,pertanyaan_formulir
+Harga formulir pendaftaran masuk SD Islam Arrohman berapa?,Biaya formulir pendaftaran di SD Islam Arrohman adalah Rp.50.000.,pertanyaan_formulir
+Berapa biaya formulir pendaftaran di SD Islam Arrohman?,Biaya formulir pendaftaran di SD Islam Arrohman adalah Rp.50.000.,pertanyaan_formulir
+Apakah formulir pendaftaran gratis atau berbayar?,Biaya formulir pendaftaran di SD Islam Arrohman adalah Rp.50.000.,pertanyaan_formulir
+Berapa harga formulir pendaftaran di SD Arrohman?,Biaya formulir pendaftaran di SD Islam Arrohman adalah Rp.50.000.,pertanyaan_formulir
+Berapa biaya untuk mendaftar di SD Islam Arrohman?,Biaya formulir pendaftaran di SD Islam Arrohman adalah Rp.50.000.,pertanyaan_formulir
