@@ -8,12 +8,12 @@ from chatbot import detect_intent, generate_response
 app = Flask(__name__)
 
 # Set default verify and access tokens if not from environment
-VERIFY_TOKEN = os.environ.get("VERIFY_TOKEN", "chatbotsmpislamarrohman123")
-ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN", "EAAUHgvUZAMoABO7qgvFYZAYGZB0pkJOqZC91Y4BLC0buOnYo0pfoMldODEEp30w53L51Q6hkNhZCQK5vxmnps4sAwJGAHMplbRwN0V0mu9zwW9AZCjqjzbkMU6EenXuAHuhvn4HmaM4oGquj9ghQZAvttnoPLnZCpgtWLjTTyWFG37i03JYb1Ama0OFXXi36xwZDZD")  # Replace for safety
+VERIFY_TOKEN = os.environ.get("VERIFY_TOKEN", "chatbotsdislamarrohman123")
+ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN", "EAAZARumNb81ABPJ9VGuX7CbmdEs7AHwxIx2XqP8YPX4ZCfT2v586UMvjoZCdgxO8m0P1uHzdnmpfXiH67AZBM2oYn0BWjkxI1rmOMZCho4YIkfZCWOZA8ocoGWCryIvYGwPySWuI4zDqOINiYmwghQBZBTR5bGvb1kAJunfqKp5Q8rbtBwYBCcCbMzjB9UEInQZDZD")  # Replace for safety
 
 @app.route("/", methods=["GET"])
 def index():
-    return "✅ Chatbot SMP Islam Arrohman is running!"
+    return "✅ Chatbot SD Islam Arrohman is running!"
 
 # Webhook verification from Meta
 @app.route("/webhook", methods=["GET"])
